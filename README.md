@@ -1,1 +1,1 @@
-# Image classification model
+# Fruit Image classification model
